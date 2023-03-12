@@ -1,7 +1,9 @@
+package xiecheng.d20230307;
+
 import java.util.Scanner;
 
 /**
- * @project: xiecheng
+ * @project: x-interview
  * @ClassName: T1
  * @author: nzcer
  * @creat: 2023/3/7 19:03
