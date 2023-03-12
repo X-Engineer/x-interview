@@ -1,8 +1,10 @@
+package xiecheng.d20230307;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @project: xiecheng
+ * @project: x-interview
  * @ClassName: T4
  * @author: nzcer
  * @creat: 2023/3/7 19:53
@@ -10,7 +12,7 @@ import java.util.Scanner;
  */
 public class T4 {
 
-    // 背包问题
+    // 背包问题，没做出来
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

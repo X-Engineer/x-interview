@@ -1,11 +1,14 @@
+package xiecheng.d20230307;
+
 import java.util.Scanner;
 
 /**
- * @project: xiecheng
+ * @project: x-interview
  * @ClassName: T3
  * @author: nzcer
  * @creat: 2023/3/7 19:40
  * @description:
+ *
  */
 public class T3 {
     // 求导
