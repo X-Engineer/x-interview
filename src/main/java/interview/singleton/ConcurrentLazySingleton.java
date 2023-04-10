@@ -8,7 +8,7 @@ package interview.singleton;
  * @description:
  */
 public class ConcurrentLazySingleton {
-    private static ConcurrentLazySingleton singleton;
+    private static volatile ConcurrentLazySingleton singleton;
 
     /**
      * 为了做到线程安全，可以给 getInstance() 方法加一把锁。
