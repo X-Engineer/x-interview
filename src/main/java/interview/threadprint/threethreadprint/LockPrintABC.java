@@ -19,7 +19,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 class Printer {
     private final int totalRound;
-    private int curRound = 0;
+    private volatile int curRound = 0;
 
     public Printer(int totalRound) {
         this.totalRound = totalRound;
